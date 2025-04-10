@@ -24,4 +24,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mahfuzahmedzisan&icon=2&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
