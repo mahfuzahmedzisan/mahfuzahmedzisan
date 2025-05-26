@@ -12,18 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=mahfuzahmedzisan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuzahmedzisan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mahfuzahmedzisan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mahfuzahmedzisan&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=mahfuzahmedzisan&icon=2&color=7)](https://visitcount.itsvg.in)
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
