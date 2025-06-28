@@ -4,10 +4,10 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/your-username?tab=followers">
+  <a href="https://github.com/mahfuzahmedzisan?tab=followers">
     <img src="https://img.shields.io/github/followers/mahfuzahmedzisan?label=Followers&style=social" alt="GitHub Followers">
   </a>
-  <a href="https://github.com/your-username?tab=stars">
+  <a href="https://github.com/mahfuzahmedzisan?tab=stars">
     <img src="https://img.shields.io/github/stars/mahfuzahmedzisan?style=social" alt="GitHub Stars">
   </a>
   <a href="https://github.com/mahfuzahmedzisan">
@@ -26,7 +26,7 @@
 - 💻 I'm a **Laravel Developer** building scalable web applications.
 - 🛠️ Currently, I'm focused on integrating third-party APIs to enhance functionality.
 - 🤝 I’m open to collaborating on innovative open-source projects or startups.
-- 🌱 I'm expanding my skills into frontend development with **React.js**.
+- 🌱 I'm expanding my skills into frontend development with **React.js** & **Next.js**.
 - 💬 Ask me anything about **Laravel, RESTful APIs, or database design**.
 - ⚡ Fun fact: I can debug code faster than I can decide what to eat for lunch!
 
@@ -52,14 +52,15 @@
 
 ### 💻 Tech Stack:
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center"><strong>Frontend</strong></td>
+    <td align="center" width="150px"><strong>Frontend</strong></td>
     <td>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
       <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
       <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
     </td>
@@ -89,12 +90,14 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Design</strong></td>
+    <td align="center"><strong>Design & Video</strong></td>
     <td>
       <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
       <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
       <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop"/>
       <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/>
+      <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="After Effects"/>
+      <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Premiere Pro"/>
     </td>
   </tr>
 </table>
