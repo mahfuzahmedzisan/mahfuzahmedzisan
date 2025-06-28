@@ -43,8 +43,8 @@
   <a href="https://www.youtube.com/channel/UC4u3soo8P07-mYrGrvO7jcw" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/></a>
   <a href="mailto:mahfuz.ahmed.zisan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
-
-    </td>
+  https://mahfuz-ahmed.vercel.app
+</td>
   </tr>
 </table>
 
