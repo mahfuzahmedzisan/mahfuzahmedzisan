@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Mahfuz Ahmed Zisan 👋</h1>
-  <h3>A passionate Laravel Developer from Bangladesh 🇧🇩</h3>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=1877F2&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Mahfuz+Zisan+%F0%9F%91%8B;A+Passionate+Laravel+Developer;Full-Stack+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
@@ -10,8 +9,8 @@
   <a href="https://github.com/mahfuzahmedzisan?tab=stars">
     <img src="https://img.shields.io/github/stars/mahfuzahmedzisan?style=social" alt="GitHub Stars">
   </a>
-  <a href="https://github.com/mahfuzahmedzisan">
-    <img src="https://img.shields.io/github/commit-activity/y/mahfuzahmedzisan?style=social" alt="GitHub Commits">
+  <a href="https://komarev.com/ghpvc/?username=mahfuzahmedzisan">
+    <img src="https://komarev.com/ghpvc/?username=mahfuzahmedzisan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
 </p>
 
@@ -33,12 +32,13 @@
     </td>
     <td valign="top" width="40%">
 
-### 🌐 Socials:
+### 🌐 Connect with Me:
 
 <p align="left">
+  <a href="https://mahfuz-ahmed.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/mahfuz-ahmed-zisan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://facebook.com/mahfuz.ahmed.zisan" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://instagram.com/mahfuz.ahmed.zisan" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://linkedin.com/in/mahfuz-ahmed-zisan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/@Mahfuz_Zisan" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?&style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
   <a href="https://www.youtube.com/channel/UC4u3soo8P07-mYrGrvO7jcw" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/></a>
   <a href="mailto:mahfuz.ahmed.zisan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -104,8 +104,10 @@
 
 ---
 
-### 📊 GitHub Stats:
-
+<details>
+<summary>
+  <h3 style="display: inline-block;">📊 GitHub Stats</h3>
+</summary>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahfuzahmedzisan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Mahfuz's GitHub Stats"/>
   <br/>
@@ -113,6 +115,7 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuzahmedzisan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Mahfuz's Top Languages"/>
 </p>
+</details>
 
 <br clear="both">
 
