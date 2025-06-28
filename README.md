@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=1877F2&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Mahfuz+Zisan+%F0%9F%91%8B;A+Passionate+Laravel+Developer;Full-Stack+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=38b2ac&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Mahfuz+Ahmed+Zisan+%F0%9F%91%8B;A+Passionate+Laravel+Developer;Full-Stack+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
@@ -43,8 +43,9 @@
   <a href="https://www.youtube.com/channel/UC4u3soo8P07-mYrGrvO7jcw" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/></a>
   <a href="mailto:mahfuz.ahmed.zisan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
-      https://mahfuz-ahmed.vercel.app
-</td>
+     
+    https://mahfuz-ahmed.vercel.app
+ </td>   
   </tr>
 </table>
 
@@ -120,5 +121,5 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/mahfuzahmedzisan/mahfuzahmedzisan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
