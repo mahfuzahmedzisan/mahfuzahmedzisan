@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=38b2ac&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Mahfuz+Ahmed+Zisan+%F0%9F%91%8B;A+Passionate+Laravel+Developer;Full-Stack+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=1877F2&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Mahfuz+Zisan+%F0%9F%91%8B;A+Passionate+Laravel+Developer;Full-Stack+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
@@ -43,16 +43,14 @@
   <a href="https://www.youtube.com/channel/UC4u3soo8P07-mYrGrvO7jcw" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/></a>
   <a href="mailto:mahfuz.ahmed.zisan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
-     
-    https://mahfuz-ahmed.vercel.app
- </td>   
+
+    </td>
   </tr>
 </table>
 
 ---
 
 ### 💻 Tech Stack:
-
 <table width="100%">
   <tr>
     <td align="center" width="150px"><strong>Frontend</strong></td>
@@ -63,7 +61,7 @@
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
       <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
       <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-      <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+      <img src="https.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
     </td>
   </tr>
   <tr>
@@ -105,6 +103,23 @@
 
 ---
 
+### 🏆 Problem Solving
+
+<p align="center">
+  <a href="https://leetcode.com/mahfuz-zisan/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/mahfuz-zisan?theme=dark&font=Fira%20Code" alt="LeetCode Stats"/>
+  </a>
+  <a href="https://leetcode.com/mahfuz-zisan/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/mahfuz-zisan?theme=dark&font=Fira%20Code&ext=badges" alt="LeetCode Badges"/>
+  </a>
+  <br/>
+  <a href="https://leetcode.com/mahfuz-zisan/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/mahfuz-zisan?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Heatmap"/>
+  </a>
+</p>
+
+---
+
 <details>
 <summary>
   <h3 style="display: inline-block;">📊 GitHub Stats</h3>
@@ -121,5 +136,5 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mahfuzahmedzisan/mahfuzahmedzisan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 </div>
