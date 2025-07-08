@@ -61,7 +61,7 @@
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
       <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
       <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-      <img src="https.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+      <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
     </td>
   </tr>
   <tr>
@@ -106,15 +106,15 @@
 ### 🏆 Problem Solving
 
 <p align="center">
-  <a href="https://leetcode.com/mahfuz-zisan/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/mahfuz-zisan?theme=dark&font=Fira%20Code" alt="LeetCode Stats"/>
+  <a href="https://leetcode.com/mahfuzahmedzisan/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/mahfuzahmedzisan?theme=dark&font=Fira%20Code" alt="LeetCode Stats"/>
   </a>
-  <a href="https://leetcode.com/mahfuz-zisan/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/mahfuz-zisan?theme=dark&font=Fira%20Code&ext=badges" alt="LeetCode Badges"/>
+  <a href="https://leetcode.com/mahfuzahmedzisan/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/mahfuzahmedzisan?theme=dark&font=Fira%20Code&ext=badges" alt="LeetCode Badges"/>
   </a>
   <br/>
-  <a href="https://leetcode.com/mahfuz-zisan/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/mahfuz-zisan?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Heatmap"/>
+  <a href="https://leetcode.com/mahfuzahmedzisan/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/mahfuzahmedzisan?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Heatmap"/>
   </a>
 </p>
 
