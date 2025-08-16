@@ -1,28 +1,57 @@
+# This workflow generates a snake game based on your GitHub contribution grid.
+# The generated SVG will be pushed to the 'output' branch of your repository.
+# You can then embed this SVG in your profile README.md.
+
 name: Generate Snake
 
 on:
+  # This section defines when the workflow will run.
+  # The 'schedule' trigger runs the action automatically at a specified time.
+  # The cron expression "0 */12 * * *" means it will run every 12 hours.
   schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours (adjust if you want a different frequency)
-  workflow_dispatch: # Allows you to manually trigger the action from the "Actions" tab
+    - cron: "0 */12 * * *" 
+  
+  # The 'workflow_dispatch' trigger allows you to run the workflow manually
+  # from the "Actions" tab in your GitHub repository.
+  workflow_dispatch: 
 
 jobs:
   build:
     name: Generate GitHub-Snake
+    # This specifies the type of machine to run the job on.
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    
     steps:
+      # This step checks out your repository's code. It's needed to push the file back.
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # This step uses the Platane/snk action to generate the snake SVG.
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: mahfuzahmedzisan # <--- Make sure this is your username!
+          # This is the most important part! Make sure to replace 'mahfuzahmedzisan'
+          # with your GitHub username for the action to work correctly.
+          github_user_name: mahfuzahmedzisan 
+          
+          # This defines the output files to be generated.
+          # The first one is a standard light-themed snake.
+          # The second one uses a 'github-dark' palette for a dark theme.
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg? palette=github-dark
 
+      # This step pushes the generated SVG files to a specified branch.
       - name: Push github-contribution-grid-snake.svg to the output branch
+        # This uses a different action to handle pushing the file.
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output # The branch where the SVG will be pushed
+          # This is the branch where the SVG file will be stored.
+          # You should create this branch if it doesn't already exist.
+          target_branch: output 
+          # The directory containing the files to be pushed.
           build_dir: dist
         env:
+          # This is a special token provided by GitHub to allow the action to write to the repository.
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
