@@ -9,11 +9,24 @@ on:
   # The 'schedule' trigger runs the action automatically at a specified time.
   # The cron expression "0 */12 * * *" means it will run every 12 hours.
   schedule:
-    - cron: "0 */12 * * *" 
+    - cron: "0 */12 * * *"
   
   # The 'workflow_dispatch' trigger allows you to run the workflow manually
   # from the "Actions" tab in your GitHub repository.
-  workflow_dispatch: 
+  # It also allows for optional inputs, like the username in this case.
+  workflow_dispatch:
+    inputs:
+      github_user_name:
+        description: 'GitHub Username'
+        required: true
+        default: 'mahfuzahmedzisan'
+
+# This section defines the permissions for the GITHUB_TOKEN.
+# The `contents: write` permission is required to push files to the repository.
+# The `pages: write` and `id-token: write` are often used with GitHub Pages,
+# but `contents: write` is sufficient for this specific use case.
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -23,33 +36,35 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      # This step checks out your repository's code. It's needed to push the file back.
+      # This step checks out your repository's code.
+      # We use actions/checkout@v4 for the latest version.
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       # This step uses the Platane/snk action to generate the snake SVG.
+      # We use the latest version `Platane/snk/svg-only@v4`.
       - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@v4
         with:
-          # This is the most important part! Make sure to replace 'mahfuzahmedzisan'
-          # with your GitHub username for the action to work correctly.
-          github_user_name: mahfuzahmedzisan 
+          # This is the most important part!
+          # We use the workflow_dispatch input if it's available, otherwise fallback to the default.
+          github_user_name: ${{ github.event.inputs.github_user_name || 'mahfuzahmedzisan' }}
           
           # This defines the output files to be generated.
           # The first one is a standard light-themed snake.
           # The second one uses a 'github-dark' palette for a dark theme.
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg? palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       # This step pushes the generated SVG files to a specified branch.
+      # We use the latest major version `crazy-max/ghaction-github-pages@v4`.
       - name: Push github-contribution-grid-snake.svg to the output branch
-        # This uses a different action to handle pushing the file.
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          # This is the branch where the SVG file will be stored.
-          # You should create this branch if it doesn't already exist.
-          target_branch: output 
+          # The branch where the SVG file will be stored.
+          # It will be created if it does not exist.
+          target_branch: output
           # The directory containing the files to be pushed.
           build_dir: dist
         env:
