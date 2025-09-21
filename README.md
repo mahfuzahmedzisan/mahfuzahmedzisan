@@ -108,7 +108,7 @@
 </summary>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahfuzahmedzisan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Mahfuz's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuzahmedzisan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Mahfuz's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuzahmedzisan&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Mahfuz's Top Languages"/>
   <br/>
   <a href="https://leetcode.com/mahfuzahmedzisan/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/mahfuzahmedzisan?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Heatmap"/>
@@ -117,7 +117,3 @@
 </details>
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-</div>
