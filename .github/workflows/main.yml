@@ -10,6 +10,11 @@ on:
   # The cron expression "0 */12 * * *" means it will run every 12 hours.
   schedule:
     - cron: "0 */12 * * *"
+
+  push:
+    branches:
+      - main
+      - master
   
   # The 'workflow_dispatch' trigger allows you to run the workflow manually
   # from the "Actions" tab in your GitHub repository.
@@ -48,7 +53,7 @@ jobs:
         with:
           # This is the most important part!
           # We use the workflow_dispatch input if it's available, otherwise fallback to the default.
-          github_user_name: ${{ github.event.inputs.github_user_name || 'mahfuzahmedzisan' }}
+          github_user_name: ${{ github.event.inputs.github_user_name || github.repository_owner }}
           
           # This defines the output files to be generated.
           # The first one is a standard light-themed snake.

@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e7c3ff,50:f2f0ff,100:d0eefc&height=190&section=header&text=Mahfuz%20Ahmed%20Zisan&fontSize=42&fontColor=4a90e2&fontAlignY=38&desc=Full-Stack%20Developer&descSize=18&descAlignY=62&descColor=bd10e0&animation=fadeIn" alt="Mahfuz Ahmed Zisan — header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:115e59,100:0d9488&height=190&section=header&text=Mahfuz%20Ahmed%20Zisan&fontSize=42&fontColor=fff&fontAlignY=38&desc=Full-Stack%20Developer&descSize=18&descAlignY=62&descColor=cbd5e1&animation=fadeIn" alt="Mahfuz Ahmed Zisan — header" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=2000&center=true&vCenter=true&multiline=true&width=900&height=140&lineHeight=1.55&gradient=true&gradientFrom=4a90e2&gradientTo=bd10e0&lines=Scalable%20APIs%20and%20web%20applications;Laravel%20%E2%80%A2%20React%20%E2%80%A2%20Next.js;Open%20to%20global%20teams%20and%20long-term%20collaborations" alt="Professional taglines" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=2000&color=0D9488&center=true&vCenter=true&multiline=true&width=900&height=140&lineHeight=1.55&lines=Scalable%20APIs%20and%20web%20applications;Laravel%20%E2%80%A2%20React%20%E2%80%A2%20Next.js;Open%20to%20global%20teams%20and%20long-term%20collaborations" alt="Professional taglines" />
 
-<br/>
+<br/><br/>
 
 </div>
 
@@ -82,7 +82,7 @@ REST APIs and services with **Laravel**, **MySQL** modeling and performance-mind
 ## Contribution graph
 
 <p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahfuzahmedzisan&hide_border=false&border_color=e9d5ff&radius=12&area=true&custom_title=GitHub%20activity&bg_color=e6f0ff&color=64748b&line=3b82f6&point=a855f7&area_color=f5e9ff&title_color=6366f1" alt="GitHub contribution activity graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahfuzahmedzisan&hide_border=true&area=true&custom_title=GitHub%20activity&bg_color=fdf4ff&color=64748b&line=c084fc&point=a78bfa&area_color=e9d5ff&title_color=7c3aed" alt="GitHub contribution activity graph" />
 </p>
 
 <br/>
@@ -105,7 +105,7 @@ REST APIs and services with **Laravel**, **MySQL** modeling and performance-mind
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=mahfuzahmedzisan&theme=swift&hide_border=true&border_radius=14&ring=3b82f6&fire=a855f7&currStreakNum=6366f1&sideNums=64748b" alt="Contribution streak" />
+<img src="https://streak-stats.demolab.com/?user=mahfuzahmedzisan&theme=swift&hide_border=true&border_radius=14&ring=c084fc&fire=a78bfa&currStreakNum=7c3aed&sideNums=64748b" alt="Contribution streak" />
 </p>
 
 <p align="center">
@@ -126,4 +126,4 @@ REST APIs and services with **Laravel**, **MySQL** modeling and performance-mind
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e7c3ff,50:f2f0ff,100:d0eefc&height=120&section=footer&animation=fadeIn" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:0f172a&height=120&section=footer&fontSize=42&fontColor=fff&animation=fadeIn" alt="" />
