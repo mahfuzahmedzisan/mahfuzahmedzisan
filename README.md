@@ -6,7 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=2000&center=true&vCenter=true&multiline=true&width=900&height=140&lineHeight=1.55&gradient=true&gradientFrom=4a90e2&gradientTo=bd10e0&lines=Scalable%20APIs%20and%20web%20applications;Laravel%20%E2%80%A2%20React%20%E2%80%A2%20Next.js;Open%20to%20global%20teams%20and%20long-term%20collaborations" alt="Professional taglines" />
 
-<br/>
 
 </div>
 
